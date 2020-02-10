@@ -13,3 +13,15 @@ Currently the structure is as follows:
 
 ***Feel free to adapt the structure***
 
+# Github Howto
+
+## Github Markdown (.md-files)
+
+Check the github markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+to learn how to work with .md files. 
+
+Further links for learning github in the [Github Learning Labs](https://lab.github.com):
+
+* [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
+* [Communication using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+
