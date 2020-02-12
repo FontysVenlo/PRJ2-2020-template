@@ -11,7 +11,7 @@ Currently the structure is as follows:
 * [Design](/design) - this is the folder where you should put all analysis artefacts into
 * [Implementation](/implementation) - this is the folder where you should put all analysis artefacts into
 
-***Feel free to adapt the structure***
+***Feel free to adapt the structure*** 
 
 # Github Howto
 
