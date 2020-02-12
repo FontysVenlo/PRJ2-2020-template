@@ -22,6 +22,8 @@ to learn how to work with .md files.
 
 Further links for learning github in the [Github Learning Labs](https://lab.github.com):
 
+* [github introduction from Colloquium](https://fontysvenlo.github.io/Git-and-github-introduction/)
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 * [Communication using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
+
 
